@@ -201,12 +201,3 @@ jobs:
                  }]
                }" \
                $DISCORD_WEBHOOK
-```
-
----
-
-## Penjelasan Warna Abu-Abu
-
-Di kode di atas, aku pakai:
-```
-"color": 9807270
